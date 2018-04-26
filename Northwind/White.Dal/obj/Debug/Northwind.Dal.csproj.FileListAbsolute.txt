@@ -1,0 +1,5 @@
+C:\autofundamental\White\Northwind\White.Dal\bin\Debug\White.Dal.dll
+C:\autofundamental\White\Northwind\White.Dal\bin\Debug\White.Dal.pdb
+C:\autofundamental\White\Northwind\White.Dal\obj\Debug\Northwind.Dal.csprojResolveAssemblyReference.cache
+C:\autofundamental\White\Northwind\White.Dal\obj\Debug\White.Dal.dll
+C:\autofundamental\White\Northwind\White.Dal\obj\Debug\White.Dal.pdb

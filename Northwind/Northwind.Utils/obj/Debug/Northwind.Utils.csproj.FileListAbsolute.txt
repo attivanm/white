@@ -1,0 +1,5 @@
+C:\autofundamental\White\Northwind\Northwind.Utils\bin\Debug\Northwind.Utils.dll
+C:\autofundamental\White\Northwind\Northwind.Utils\bin\Debug\Northwind.Utils.pdb
+C:\autofundamental\White\Northwind\Northwind.Utils\obj\Debug\Northwind.Utils.csprojResolveAssemblyReference.cache
+C:\autofundamental\White\Northwind\Northwind.Utils\obj\Debug\Northwind.Utils.dll
+C:\autofundamental\White\Northwind\Northwind.Utils\obj\Debug\Northwind.Utils.pdb

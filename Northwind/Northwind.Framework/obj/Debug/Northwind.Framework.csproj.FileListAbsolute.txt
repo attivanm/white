@@ -1,0 +1,10 @@
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\Northwind.Framework.dll
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\Northwind.Framework.pdb
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\Castle.Core.dll
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\TestStack.White.dll
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\Castle.Core.xml
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\TestStack.White.pdb
+C:\autofundamental\White\Northwind\Northwind.Framework\bin\Debug\TestStack.White.xml
+C:\autofundamental\White\Northwind\Northwind.Framework\obj\Debug\Northwind.Framework.csprojResolveAssemblyReference.cache
+C:\autofundamental\White\Northwind\Northwind.Framework\obj\Debug\Northwind.Framework.dll
+C:\autofundamental\White\Northwind\Northwind.Framework\obj\Debug\Northwind.Framework.pdb
